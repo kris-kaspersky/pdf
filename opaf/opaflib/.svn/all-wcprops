@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/54/trunk/opaflib
+END
+filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/49/trunk/opaflib/filters.py
+END
+xmlast.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/54/trunk/opaflib/xmlast.py
+END
+parsetab_pdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/54/trunk/opaflib/parsetab_pdf.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/54/trunk/opaflib/parser.py
+END
+lexer.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/54/trunk/opaflib/lexer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/54/trunk/opaflib/__init__.py
+END
+parsetab_pdf_brute_end.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/54/trunk/opaflib/parsetab_pdf_brute_end.py
+END
+parsetab_indirect.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/54/trunk/opaflib/parsetab_indirect.py
+END
+xref.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/22/trunk/opaflib/xref.py
+END
+miniPDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/22/trunk/opaflib/miniPDF.py
+END
+parsetab_object.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/54/trunk/opaflib/parsetab_object.py
+END

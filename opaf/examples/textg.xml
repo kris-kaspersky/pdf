@@ -1,0 +1,103 @@
+<raw_pdf lexstart="0" lexend="600614" payload="OPAF!">
+  <header lexstart="0" lexend="8" payload="1.3"/>
+  <pdf_update lexstart="0" lexend="0" payload="">
+    <indirect_object lexstart="100015" lexend="100043" payload="(1, 0)">
+      <number lexstart="8" lexend="18" payload="95"/>
+    </indirect_object>
+    <indirect_object lexstart="200033" lexend="200121" payload="(2, 0)">
+      <dictionary lexstart="8" lexend="78">
+        <dictionary_entry lexstart="10" lexend="49">
+          <name lexstart="10" lexend="31" payload="Type"/>
+          <name lexstart="16" lexend="49" payload="Catalog"/>
+        </dictionary_entry>
+        <dictionary_entry lexstart="25" lexend="69">
+          <name lexstart="25" lexend="63" payload="Pages"/>
+          <R lexstart="32" lexend="69" payload="(3, 0)" path="/raw_pdf/pdf_update/indirect_object[3]"/>
+        </dictionary_entry>
+      </dictionary>
+    </indirect_object>
+    <indirect_object lexstart="300081" lexend="300185" payload="(3, 0)">
+      <dictionary lexstart="8" lexend="94">
+        <dictionary_entry lexstart="10" lexend="35">
+          <name lexstart="10" lexend="33" payload="Count"/>
+          <number lexstart="17" lexend="35" payload="1"/>
+        </dictionary_entry>
+        <dictionary_entry lexstart="19" lexend="63">
+          <name lexstart="19" lexend="49" payload="Kids"/>
+          <array lexstart="25" lexend="63">
+            <R lexstart="26" lexend="57" payload="(4, 0)" path="/raw_pdf/pdf_update/indirect_object[4]"/>
+          </array>
+        </dictionary_entry>
+        <dictionary_entry lexstart="33" lexend="91">
+          <name lexstart="33" lexend="77" payload="Type"/>
+          <name lexstart="39" lexend="91" payload="Pages"/>
+        </dictionary_entry>
+      </dictionary>
+    </indirect_object>
+    <indirect_object lexstart="400137" lexend="400419" payload="(4, 0)">
+      <dictionary lexstart="8" lexend="272">
+        <dictionary_entry lexstart="10" lexend="41">
+          <name lexstart="10" lexend="35" payload="Parent"/>
+          <R lexstart="18" lexend="41" payload="(3, 0)" path="/raw_pdf/pdf_update/indirect_object[3]"/>
+        </dictionary_entry>
+        <dictionary_entry lexstart="24" lexend="71">
+          <name lexstart="24" lexend="59" payload="Type"/>
+          <name lexstart="30" lexend="71" payload="Page"/>
+        </dictionary_entry>
+        <dictionary_entry lexstart="36" lexend="97">
+          <name lexstart="36" lexend="91" payload="Contents"/>
+          <R lexstart="46" lexend="97" payload="(5, 0)" path="/raw_pdf/pdf_update/indirect_object_stream"/>
+        </dictionary_entry>
+        <dictionary_entry lexstart="52" lexend="266">
+          <name lexstart="52" lexend="125" payload="Resources"/>
+          <dictionary lexstart="63" lexend="266">
+            <dictionary_entry lexstart="65" lexend="260">
+              <name lexstart="65" lexend="141" payload="Font"/>
+              <dictionary lexstart="71" lexend="260">
+                <dictionary_entry lexstart="73" lexend="254">
+                  <name lexstart="73" lexend="153" payload="F1"/>
+                  <dictionary lexstart="77" lexend="254">
+                    <dictionary_entry lexstart="79" lexend="199">
+                      <name lexstart="79" lexend="177" payload="BaseFont"/>
+                      <name lexstart="89" lexend="199" payload="Helvetica"/>
+                    </dictionary_entry>
+                    <dictionary_entry lexstart="100" lexend="231">
+                      <name lexstart="100" lexend="217" payload="Subtype"/>
+                      <name lexstart="109" lexend="231" payload="Type1"/>
+                    </dictionary_entry>
+                    <dictionary_entry lexstart="116" lexend="251">
+                      <name lexstart="116" lexend="243" payload="Name"/>
+                      <name lexstart="122" lexend="251" payload="F1"/>
+                    </dictionary_entry>
+                  </dictionary>
+                </dictionary_entry>
+              </dictionary>
+            </dictionary_entry>
+          </dictionary>
+        </dictionary_entry>
+      </dictionary>
+    </indirect_object>
+    <indirect_object_stream lexstart="500282" lexend="500462" payload="(5, 0)">
+      <dictionary lexstart="8" lexend="50">
+        <dictionary_entry lexstart="10" lexend="41">
+          <name lexstart="10" lexend="35" payload="Length"/>
+          <R lexstart="18" lexend="41" payload="(1, 0)" path="/raw_pdf/pdf_update/indirect_object[1]"/>
+        </dictionary_entry>
+      </dictionary>
+      <stream_data lexstart="27" lexend="87" payload="BT /F1 24 Tf 240 700 Td (Pedefe Pedefeito &#10;"/>
+    </indirect_object_stream>
+    <xref lexstart="600429" lexend="600590" payload="[((0, 6), [(0, 65535, 'f'), (100015, 0, 'n'), (200033, 0, 'n'), (300081, 0, 'n'), (400137, 0, 'n'), (500282, 0, 'n')])]">
+      <dictionary lexstart="137" lexend="320">
+        <dictionary_entry lexstart="139" lexend="295">
+          <name lexstart="139" lexend="289" payload="Root"/>
+          <R lexstart="145" lexend="295" payload="(2, 0)" path="/raw_pdf/pdf_update/indirect_object[2]"/>
+        </dictionary_entry>
+        <dictionary_entry lexstart="151" lexend="315">
+          <name lexstart="151" lexend="313" payload="Size"/>
+          <number lexstart="157" lexend="315" payload="6"/>
+        </dictionary_entry>
+      </dictionary>
+    </xref>
+    <pdf_end lexstart="600591" lexend="600792" payload="600429"/>
+  </pdf_update>
+</raw_pdf>
